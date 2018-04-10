@@ -4,3 +4,6 @@ body{
   border: 2px;
   font-family: cursive;
 }
+p{
+  margin: 20px;
+}
