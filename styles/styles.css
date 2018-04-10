@@ -5,5 +5,9 @@ body{
   font-family: cursive;
 }
 p{
+<<<<<<< HEAD
   font-size: 10px;
+=======
+  margin: 20px;
+>>>>>>> branch-c
 }
